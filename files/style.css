@@ -306,10 +306,14 @@ a:hover::after {
 }
 
 footer {
-    text-align: center;
+    text-align:center;
     padding: 5px;
     background-color: #000000;
     color: #ffffff;
+}
+
+video {
     
-    
+    left: 50%;
+    transform:translateX(-30%);
 }
